@@ -1,5 +1,5 @@
 # CocoaHeads-Krk-Talks
-A list of talks given at CocoaHeads Krakow Meetups
+A list of talks given at CocoaHeads Kraków Meetups.
 
 ###CocoaHeads Kraków #4
 
@@ -25,7 +25,7 @@ A list of talks given at CocoaHeads Krakow Meetups
 
 ###CocoaHeads Kraków #8
 
-*two talks, *more details needed*
+ *two talks, more details needed*
 
 ###CocoaHeads Kraków #9
 
@@ -56,7 +56,7 @@ A list of talks given at CocoaHeads Krakow Meetups
 * [From MVC to Viper](http://www.slideshare.net/kprofic/from-mvc-to-viper) by Krzysztof Profic
 * A talk about book "Barcodes with iOS" and ProductLayer API *slides missing* by Oliver Drobnik
 * "Thinking about new rectangles" *slides missing* by Tom Maes
-* 
+
 
 ###CocoaHeads Kraków #15
 
