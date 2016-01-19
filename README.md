@@ -4,8 +4,8 @@ A list of talks given at CocoaHeads Kraków Meetups.
 ###CocoaHeads Kraków #4
 
 * [What's new(ish) in Objective-C](https://speakerdeck.com/jsuder/whats-new-ish-in-objectivec) by Kuba Suder
-* A talk on `instancetype`, abstract protocols and implied classes *unknown* by Bogo Giertler
-* A talk on debugging UI in iOS apps *unknown* by Michał Śmiałko
+* A talk on `instancetype`, abstract protocols and implied classes by Bogo Giertler
+* A talk on debugging UI in iOS apps by Michał Śmiałko
 
 ###CocoaHeads Kraków #5
 
@@ -15,8 +15,8 @@ A list of talks given at CocoaHeads Kraków Meetups.
 ###CocoaHeads Kraków #6
 
 * [Mobile-Web synchronization using CouchDB](https://prezi.com/m38xydnw00ak/mobile-web-synchronization-using-couchdb/) by Ania Leśniak
-* A talk on Quartz Composer *unknown* by Błażej Biesiada
-* A talk on [NinjaTableView](https://github.com/wnagrodzki/NinjaTableView) *unknown* by Wojtek Nagrodzki
+* A talk on Quartz Composer Błażej Biesiada
+* A talk on [NinjaTableView](https://github.com/wnagrodzki/NinjaTableView) by Wojtek Nagrodzki
 
 ###CocoaHeads Kraków #7
 
@@ -29,17 +29,17 @@ A list of talks given at CocoaHeads Kraków Meetups.
 
 ###CocoaHeads Kraków #9
 
-* A talk by on his working experience at Base CRM as an iOS Developer *unknown* by Dominik Kapusta
-* A talk on NSFetchedResultsController and big sets of data *unknown* by Bartek Waresiak
+* A talk by on his working experience at Base CRM as an iOS Developer by Dominik Kapusta
+* A talk on NSFetchedResultsController and big sets of data by Bartek Waresiak
 
 ###CocoaHeads Kraków #10
 * [(Unit) Testing iOS Apps](http://dudek.mobi/slides/%28Unit%29%20Testing%20iOS%20Apps.pdf) by Paweł Dudek
 * A talk about [UI Appearance style sheets - UISS](https://github.com/robertwijas/UISS) *slides missing* by Robert Wijas
-* A talk by Grzegorz Krukiewicz-Gacek and Marcin Klimek about their work at Estimote *unknown*
+* A talk by Grzegorz Krukiewicz-Gacek and Marcin Klimek about their work at Estimote
 
 ###CocoaHeads Kraków #11
 * [Safer Objective-C](https://speakerdeck.com/bejo/safer-objective-c) by Błażej Biesiada
-* "Low-hanging fruits: about simple performance tweaks for iOS apps" *slides missing* by Bartek Waresiak
+* "Low-hanging fruits: about simple performance tweaks for iOS apps" by Bartek Waresiak
 
 ###CocoaHeads Kraków #12
 
@@ -48,8 +48,8 @@ A list of talks given at CocoaHeads Kraków Meetups.
 
 ###CocoaHeads Kraków #13
 
-* A talk about Websosckes *unknown* by Romana Barzyczak
-* A talk about static libraries in iOS *unknown* by Kamil Burczyk
+* A talk about Websosckes by Roman Barzyczak
+* A talk about static libraries in iOS by Kamil Burczyk
 
 ###CocoaHeads Kraków #14
  
@@ -66,7 +66,17 @@ A list of talks given at CocoaHeads Kraków Meetups.
 * Lightning talk [Making Bluetooth Smarter](https://speakerdeck.com/mciuba/making-bluetooth-smarter) by Michał Ciuba
 
 ###CocoaHeads Kraków #16
-* [Ways to improve your architecture](http://files.meetup.com/7171412/WaysToImproveArchitecture.pdf) by (Marek
- Mościchowski)
-* A talk on designing more attractive APIs with Swift to escape building deep-nested branch hierarchies to unwrap optionals *unknown* by Marius Rackwitz
+* [Ways to improve your architecture](http://files.meetup.com/7171412/WaysToImproveArchitecture.pdf) by Marek
+ Mościchowski
+* A talk on designing more attractive APIs with Swift to escape building deep-nested branch hierarchies to unwrap optionals *slides missing* by Marius Rackwitz
+
+###CocoaHeads Kraków #17
+* "How do 40 developers manage the development of an app used by 60 million users in 58 markets?" *slides missing* by Hector Zarate Rea
+*  Dependency injection on iOS using [Syringe](https://github.com/tomekc/Syringe) *slides missing* by Tomasz Cejner
+
+###CocoaHeads Kraków #18
+* "Animations with auto layout (now with stack views!)" *slides missing* by Martin Todorov 
+* "An intro to React Native" *slides missing* by Krzysztof Magiera
+* [Xcode Server](https://speakerdeck.com/cojoj/xcode-server) by Mateusz Zając
+
 
