@@ -79,4 +79,7 @@ A list of talks given at CocoaHeads Kraków Meetups.
 * "An intro to React Native" *slides missing* by Krzysztof Magiera
 * [Xcode Server](https://speakerdeck.com/cojoj/xcode-server) by Mateusz Zając
 
+###CocoaHeads Kraków #19
 
+* Protocol-Oriented Programming *slides missing* by Radek Cięciwa
+* [Building iOS content blockers](https://speakerdeck.com/jsuder/building-ios-content-blockers) by Kuba Suder
